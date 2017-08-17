@@ -6035,3 +6035,6 @@ p > video {
 		padding: 0;
 	}
 }
+.hentry {
+	border: 1px solid #f2f2f2 !important;
+}
