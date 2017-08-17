@@ -6038,3 +6038,8 @@ p > video {
 .hentry {
 	border: 1px solid #f2f2f2 !important;
 }
+.site-main {
+    max-width: 1000px !important;
+    /* padding: 0 20px !important; */
+    margin: 10px auto !important;
+}
