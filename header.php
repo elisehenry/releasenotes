@@ -24,8 +24,6 @@
 <body <?php body_class(); ?>>
 <div id="page" class="hfeed site">
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyfifteen' ); ?></a>
-
-	<div id="content" class="site-content">
 <section class="header">
             <div class="header-content">
                                                             <a class="logo" href="https://our.releasenotes.io" style="background-image: url(https://s3.amazonaws.com/release-assets/profiles/015356208a653efb9a9a25709ab7d07c.png)">&nbsp;</a>
@@ -36,6 +34,7 @@
                                                         </nav>
             </div>
         </section>
+	<div id="content" class="site-content">
 		<style>
 			.header {
     padding: 30px 45px;
