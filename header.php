@@ -26,12 +26,7 @@
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyfifteen' ); ?></a>
 <section class="header">
             <div class="header-content">
-                                                            <a class="logo" href="https://our.releasenotes.io" style="background-image: url(https://s3.amazonaws.com/release-assets/profiles/015356208a653efb9a9a25709ab7d07c.png)">&nbsp;</a>
-                                                    <nav>
-                                        <a href="https://our.releasenotes.io/subscribe" id="subscribe-btn">
-                        Subscribe<span class="hide-on-small"> to updates</span>
-                    </a>
-                                                        </nav>
+                                                            <a class="logo" href="<?php echo site_url(); ?>" style="background-image: url(https://s3.amazonaws.com/release-assets/profiles/015356208a653efb9a9a25709ab7d07c.png)">&nbsp;</a>
             </div>
         </section>
 	<div id="content" class="site-content">
