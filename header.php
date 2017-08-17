@@ -26,7 +26,7 @@
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyfifteen' ); ?></a>
 <section class="header">
             <div class="header-content">
-                                                            <a class="logo" href="<?php echo site_url(); ?>" style="background-image: url(https://s3.amazonaws.com/release-assets/profiles/015356208a653efb9a9a25709ab7d07c.png)">&nbsp;</a>
+                                                            <a class="logo" href="<?php echo site_url(); ?>" <p>get_current_site_name( object $current_site )</p>
             </div>
         </section>
 	<div id="content" class="site-content">
