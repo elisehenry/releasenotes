@@ -26,3 +26,46 @@
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyfifteen' ); ?></a>
 
 	<div id="content" class="site-content">
+<section class="header">
+            <div class="header-content">
+                                                            <a class="logo" href="https://our.releasenotes.io" style="background-image: url(https://s3.amazonaws.com/release-assets/profiles/015356208a653efb9a9a25709ab7d07c.png)">&nbsp;</a>
+                                                    <nav>
+                                        <a href="https://our.releasenotes.io/subscribe" id="subscribe-btn">
+                        Subscribe<span class="hide-on-small"> to updates</span>
+                    </a>
+                                                        </nav>
+            </div>
+        </section>
+		<style>
+			.header {
+    padding: 30px 45px;
+    background-color: #FFF;
+    border-bottom: 1px solid #f2f2f2;
+    margin-bottom: 50px;
+}
+normalize.less:33
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+default.less:29
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+Inherited from body
+default.less:17
+body {
+    background-color: #fbfbfb;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #787c7f;
+    min-width: 350px;
+    font-family: 'Noto Sans';
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+		</style>
