@@ -6038,3 +6038,9 @@ p > video {
 .hentry {
 	border: 1px solid #f2f2f2 !important;
 }
+.hentry {
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+    margin-right: 100px !important;
+    margin-left: 100px !important;
+}
