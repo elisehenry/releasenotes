@@ -15,6 +15,16 @@
  */
 
 get_header(); ?>
+<section class="header">
+            <div class="header-content">
+                                                            <a class="logo" href="https://our.releasenotes.io" style="background-image: url(https://s3.amazonaws.com/release-assets/profiles/015356208a653efb9a9a25709ab7d07c.png)">&nbsp;</a>
+                                                    <nav>
+                                        <a href="https://our.releasenotes.io/subscribe" id="subscribe-btn">
+                        Subscribe<span class="hide-on-small"> to updates</span>
+                    </a>
+                                                        </nav>
+            </div>
+        </section>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
