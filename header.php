@@ -32,6 +32,47 @@
 	<div id="content" class="site-content">
 		<style>
 			.header {
+    height: 50px;
+    width: 2000px;
+}
+(index):76
+.header {
+    /* padding: 30px 45px; */
+    background-color: #FFF;
+    border-bottom: 1px solid #f2f2f2;
+    margin-bottom: 50px;
+}
+(index):91
+user agent stylesheet article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+			element.style {
+}
+default.less:29
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from body
+default.less:17
+body {
+    background-color: #fbfbfb;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #787c7f;
+    min-width: 350px;
+    font-family: 'Noto Sans';
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+element.style {
+}
+default.less:41
+.header {
     padding: 30px 45px;
     background-color: #FFF;
     border-bottom: 1px solid #f2f2f2;
@@ -61,9 +102,5 @@ body {
     font-weight: 300;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
-}
-.header {
-    height: 50px;
-    width: 11890px;
 }
 		</style>
