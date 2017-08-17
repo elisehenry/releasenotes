@@ -17,7 +17,6 @@
 	?>
 
 	<header class="entry-header">
-		<?php twentyfifteen_entry_meta(); ?>
 		<?php
 			if ( is_single() ) :
 				the_title( '<h1 class="entry-title">', '</h1>' );
