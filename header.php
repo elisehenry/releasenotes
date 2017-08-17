@@ -68,4 +68,8 @@ body {
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
 }
+.header {
+    height: 50px;
+    width: 11890px;
+}
 		</style>
