@@ -4115,14 +4115,6 @@ p > video {
 		max-width: 1403px;
 	}
 
-	.sidebar {
-		float: left;
-		margin-right: -100%;
-		max-width: 413px;
-		position: relative;
-		width: 29.4118%;
-	}
-
 	.secondary {
 		background-color: transparent;
 		box-shadow: none;
@@ -5990,10 +5982,6 @@ p > video {
 
 	.site {
 		margin: 0 7.6923%;
-	}
-
-	.sidebar {
-		position: relative !important; /* Make sure sticky sidebar doesn't affect to print */
 	}
 
 	.site-branding {
