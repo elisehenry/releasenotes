@@ -26,8 +26,7 @@
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyfifteen' ); ?></a>
 <section class="header">
             <div class="header-content">
-                                                            <a class="logo" href="<?php echo site_url(); ?>" <p><?php get_bloginfo($show, $name); ?>
-</p>
+                                                            <a class="logo" href="<?php echo site_url(); ?>" <p><?php bloginfo('name'); ?></p>
             </div>
         </section>
 	<div id="content" class="site-content">
