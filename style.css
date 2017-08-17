@@ -6047,3 +6047,35 @@ p > video {
 .site-info {
     margin-right: 400px !important;
 }
+
+.header {
+    padding: 30px 45px;
+    background-color: #FFF;
+    border-bottom: 1px solid #f2f2f2;
+    margin-bottom: 50px;
+}
+normalize.less:33
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+default.less:29
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+Inherited from body
+default.less:17
+body {
+    background-color: #fbfbfb;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #787c7f;
+    min-width: 350px;
+    font-family: 'Noto Sans';
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
