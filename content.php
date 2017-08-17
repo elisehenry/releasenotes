@@ -17,13 +17,6 @@
 	?>
 
 	<header class="entry-header">
-			<?php
-		// Author bio.
-		if ( is_single() && get_the_author_meta( 'description' ) ) :
-			get_template_part( 'author-bio' );
-		endif;
-	?>
-		<?php twentyfifteen_entry_meta(); ?>
 		<?php
 			if ( is_single() ) :
 				the_title( '<h1 class="entry-title">', '</h1>' );
