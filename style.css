@@ -6041,3 +6041,6 @@ p > video {
 .site-info {
     margin-left: 200px !important;
 }
+.entry-footer {
+	display:none !important;
+}
